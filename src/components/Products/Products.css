@@ -1,0 +1,11 @@
+button {
+  border: 1px solid orangered;
+  padding: 5px;
+  background-color: orange;
+  cursor: pointer;
+}
+
+.product-container {
+  display: flex;
+  flex-direction: column;
+}
